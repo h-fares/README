@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hani Fares</h1>
-<h3 align="center">A software engineer with a true passion</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
 
